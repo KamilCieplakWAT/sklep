@@ -1,0 +1,15 @@
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\Sklep.exe.config
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\Sklep.exe
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\Sklep.pdb
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.Properties.Resources.resources
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.csproj.GenerateResource.cache
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.exe
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.pdb
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\EntityFramework.dll
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\EntityFramework.xml
+c:\users\cieplakkami\source\repos\Sklep\Sklep\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.Form1.resources
+c:\users\cieplakkami\source\repos\Sklep\Sklep\obj\Debug\Sklep.csproj.CopyComplete
